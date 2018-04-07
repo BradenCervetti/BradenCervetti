@@ -1,5 +1,6 @@
 .darkBG{
     background: #999;
+    text-decoration-style: wavy
 }
 .darkerBG{
     background: #666;
@@ -42,4 +43,7 @@
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
+}
+.myJumbotron {
+   background-color: #E64545;
 }
