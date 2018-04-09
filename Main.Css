@@ -10,7 +10,7 @@
     background: #444;
 }
 .seethrough{
-    background: #4443;
+    background: #0007;
     
 }
 
@@ -75,5 +75,8 @@ body {
 .jumbotron{background-color: #1114!important;}
     
 .nav-tabs{background-color: #0007!important;}
+
+.center { margin: 0 auto; width: 1000px; }
+
 
 
